@@ -58,11 +58,11 @@ p, ul, ol {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #FFA33E;
+  color: #BF0414;
 }
 
 a:hover, a:focus, a:active {
-  color: #ff9725;
+  color: #FF051B;
   text-decoration: none;
 }
 
@@ -413,7 +413,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav.active > a {
-  color: #FFA33E !important;
+  color: #BF0414 !important;
 }
 
 .probootstrap-navbar .dropdown-submenu {
@@ -500,12 +500,12 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar.scrolled .navbar-nav > li.active > a {
-  color: #FFA33E !important;
+  color: #BF0414 !important;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-navbar.scrolled .navbar-nav > li.active > a {
-    color: #FFA33E !important;
+    color: #BF0414 !important;
   }
 }
 
@@ -605,7 +605,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-hero-colored {
-  background: #FFA33E;
+  background: #BF0414;
 }
 
 .probootstrap-hero.probootstrap-hero-colored h1 {
@@ -639,8 +639,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn.btn-primary {
-  border: 1px solid #FFA33E;
-  background: #FFA33E;
+  border: 1px solid #BF0414;
+  background: #BF0414;
   color: #ffffff;
 }
 
@@ -650,25 +650,25 @@ a:hover, a:focus, a:active {
 
 .btn.btn-primary:focus, .btn.btn-primary:active {
   outline: none;
-  border: 1px solid #FFA33E;
+  border: 1px solid #BF0414;
 }
 
 .btn.btn-ghost {
   background: transparent;
-  border: 1px solid #FFA33E;
-  color: #FFA33E;
+  border: 1px solid #BF0414;
+  color: #BF0414;
 }
 
 .btn.btn-ghost:hover {
-  background: #FFA33E;
+  background: #BF0414;
   color: #ffffff;
 }
 
 .btn.btn-ghost:focus, .btn.btn-ghost:active {
   outline: none;
   background: transparent;
-  color: #FFA33E;
-  border: 1px solid #FFA33E;
+  color: #BF0414;
+  border: 1px solid #BF0414;
 }
 
 section[data-section="menu"] {
@@ -864,7 +864,7 @@ section[data-section="menu"] {
 }
 
 .probootstrap-block-image .text h3 a:hover {
-  color: #FFA33E;
+  color: #BF0414;
 }
 
 .probootstrap-block-image .text p:last-child {
@@ -890,7 +890,7 @@ section[data-section="menu"] {
   display: block;
   width: 0;
   height: 2px;
-  background: #FFA33E;
+  background: #BF0414;
   position: absolute;
   bottom: 0;
   z-index: 2;
@@ -915,7 +915,7 @@ section[data-section="menu"] {
 
 .probootstrap-custom-link:hover:before {
   width: 100%;
-  background: #FFA33E;
+  background: #BF0414;
 }
 
 .image-wrap {
@@ -992,7 +992,7 @@ section[data-section="menu"] {
   top: 15px;
   right: 0;
   font-size: 20px;
-  color: #FFA33E;
+  color: #BF0414;
 }
 
 @media screen and (max-width: 768px) {
@@ -1078,7 +1078,7 @@ section[data-section="menu"] {
 
 .probootstrap-cell .text p.price {
   font-size: 20px;
-  color: #FFA33E;
+  color: #BF0414;
 }
 
 .probootstrap-cell .text:before {
@@ -1357,7 +1357,7 @@ section[data-section="menu"] {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #FFA33E;
+  border-color: #BF0414;
 }
 
 .probootstrap-form .form-group .form-field {
@@ -1760,7 +1760,7 @@ section[data-section="menu"] {
   display: block;
   text-transform: none;
   letter-spacing: normal;
-  color: #FFA33E;
+  color: #BF0414;
   font-size: 14px;
 }
 
@@ -1770,7 +1770,7 @@ section[data-section="menu"] {
 
 .probootstrap-pricing .probootstrap-price-wrap .probootstrap-price {
   font-size: 50px;
-  color: #FFA33E;
+  color: #BF0414;
   font-weight: 100;
   display: block;
   margin-bottom: 10px;
@@ -1860,7 +1860,7 @@ section[data-section="menu"] {
 
 .probootstrap-heading .primary-heading {
   font-family: "Pinyon Script", serif;
-  color: #FFA33E;
+  color: #BF0414;
   margin: 0;
   padding: 0;
   font-size: 80px;
@@ -2139,14 +2139,14 @@ section[data-section="menu"] {
 
 .owl-theme .owl-controls .owl-nav [class*="owl-"] i {
   font-size: 24px;
-  background: #ffa33e !important;
+  background: #BF0414 !important;
   padding: 12px;
   -webkit-transition: .5s all;
   transition: .5s all;
 }
 
 .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover i, .owl-theme .owl-controls .owl-nav [class*="owl-"]:focus i {
-  background: #ffa33e !important;
+  background: #BF0414 !important;
 }
 
 .owl-theme .owl-dots {
