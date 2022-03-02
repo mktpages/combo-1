@@ -72,6 +72,14 @@ a:hover, a:focus, a:active {
   float: right;
 }
 
+.bold {
+  font-weight: bold;
+}
+.red {
+  font-weight: bold;
+  color: #BF0414;
+}
+
 @media screen and (max-width: 768px) {
   .hero-text-heading, .probootstrap-hero h1 {
     font-size: 40px;
@@ -735,6 +743,7 @@ section[data-section="menu"] {
 
 .probootstrap-section-bg .probootstrap-heading {
   margin-top: 250px;
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 @media screen and (max-width: 768px) {
@@ -1866,7 +1875,8 @@ section[data-section="menu"] {
 
 @media screen and (max-width: 768px) {
   .probootstrap-heading .primary-heading {
-    font-size: 70px;
+    font-size: 5rem;
+    line-height: 2;
   }
 }
 
@@ -1885,7 +1895,7 @@ section[data-section="menu"] {
 
 @media screen and (max-width: 768px) {
   .probootstrap-heading .secondary-heading {
-    font-size: 40px;
+    font-size: 3rem;
   }
 }
 
