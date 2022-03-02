@@ -76,6 +76,10 @@ button {
   color: #401717;
 }
 
+.right {
+  float: right;
+}
+
 @media screen and (max-width: 768px) {
   .hero-text-heading, .probootstrap-hero h1 {
     font-size: 40px;
