@@ -339,7 +339,7 @@ a:hover, a:focus, a:active {
   color: white;
   font-size: 15px;
   position: relative;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 @media screen and (max-width: 768px) {
@@ -492,7 +492,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar.scrolled .navbar-nav > li > a {
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(191, 4, 20, 0.7);
 }
 
 .probootstrap-navbar.scrolled .navbar-nav > li > a:hover {
